@@ -45,7 +45,7 @@ export default function Home() {
           </div>
           <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400'>
             <a href='https://leetcode.com/mabed3819/' target='_blank'><SiLeetcode /></a>
-            <a href='https://www.linkedin.com/in/mohammad-alfayoume-194b531b3/' target='_blank'><AiFillLinkedin /></a>
+            <a href='https://linkedin.com/in/mohammad-alfayoume' target='_blank'><AiFillLinkedin /></a>
             <a href='https://github.com/mohammadalfayoume' target='_blank'><AiFillGithub /></a>
           </div>
           <div className='relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-20 overflow-hidden md:h-96 md:w-96'>
